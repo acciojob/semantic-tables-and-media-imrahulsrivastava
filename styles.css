@@ -1,2 +1,18 @@
+table,
+thead,
+tbody,
+tr,
+th,
+td {
+  border: 2px solid black;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: center;
+}
 
-/* Your CSS Code here. */
+.same {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+}
